@@ -1,0 +1,3 @@
+c-eu13.stripst.com
+gstatic.com
+ssl.gstatic.com
