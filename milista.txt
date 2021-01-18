@@ -1,12 +1,8 @@
-c-eu13.stripst.com
-gstatic.com
-ssl.gstatic.com
 vod.sunmedia.tv
 es-sunelespanol.videoplaza.tv
 vid.pubmatic.com
 cleaner-android.com
 stripst.com
-doubleclick.net
 adnxs.com
 rubiconproject.com
 onesignal.com
